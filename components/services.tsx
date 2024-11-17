@@ -1,7 +1,7 @@
 'use client'
 import { motion } from 'framer-motion'
 import FadeIn from '../lib/variants'
-import AnimatedCounter from '../lib/animatedCounter' // New import (with .tsx extension)
+import AnimatedCounter from '../lib/animatedCounter' 
 
 const Services = () => {
   return (
